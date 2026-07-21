@@ -3,6 +3,8 @@ title: Example Page
 description: A new page to test out referencing react
 ---
 
+I want to try rendering
+
 I will try to create a merge conflict.
 I will edit this page in two places.
 This is my other attempt to create a merge conflict.
